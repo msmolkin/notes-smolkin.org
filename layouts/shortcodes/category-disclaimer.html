@@ -1,0 +1,9 @@
+<p>Test shortcode</p>
+
+{{ with .Page.Params.category }}
+{{ with $.Site.GetPage "section" . }}{{ .Params.description }}{{ end }}
+{{ end }}
+
+{{ with .Page.Params.category }}
+<p>Category: {{ . }}</p>  
+{{ end }}
