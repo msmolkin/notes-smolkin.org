@@ -1,0 +1,1 @@
+https://www.amazon.com/Amazon-Basics-128GB-Ultra-Flash/dp/B0B6148YKN/ref=sr_1_3?keywords=flash+drive&link_code=qs&&tag=smolk-20
