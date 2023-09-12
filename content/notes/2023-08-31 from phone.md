@@ -1,0 +1,1 @@
+Hey, if Siri is able to interact with ChatGPT to send requests using your voice and receive responses that it then reeds, that implies that there must be some sort of API that it can use
