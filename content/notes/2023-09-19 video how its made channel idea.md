@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: 2023-09-19 video how its made channel idea
 date: 2023-09-19
 enableToc: false
 tags:
