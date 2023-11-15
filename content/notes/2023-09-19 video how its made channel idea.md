@@ -1,6 +1,6 @@
 ---
 title: 2023-09-19 video how its made channel idea
-date: 2023-09-19
+date: 2023-08-31
 enableToc: false
 tags:
   - blog

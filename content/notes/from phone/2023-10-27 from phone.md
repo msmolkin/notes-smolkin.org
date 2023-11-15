@@ -1,3 +1,10 @@
+---
+title: 2023-10-27 from phone
+date: 2023-10-27
+enableToc: false
+tags:
+  - blog
+---
 Food for thought:
 
 2:32 PM -04:00 (1698431532208)
