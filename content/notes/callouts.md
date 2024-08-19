@@ -1,5 +1,7 @@
 ---
 title: "Callouts"
+noindex: true
+nofollow: true
 ---
 
 ## Callout support
