@@ -1,3 +1,11 @@
+---
+title: 2024-09-11 my thoughts in september
+tags:
+  - blog
+  - article
+---
+Holy cow, it's already September 2024. It should still be 2019, pre-Covid. Anyway...
+
 This is what most people want: #blog
 She wants to be “free,” and she thinks that religion constrains her. What does she want to be free to do? Work within a corporate system and pay money into a legal system based on rules made up by people she’s never met and likely doesn’t want to ever meet. She wants to feel as though she is free, living inside someone’s corporate maze. As long as she *feels* free, that must mean she *is* free.
 
